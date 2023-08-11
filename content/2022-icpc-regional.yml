@@ -1,0 +1,26 @@
+title: 2022-2023 ICPC Regional (Asia East Continent)
+contests:
+  nanjing:
+    oj: gym
+    id: 104128A-M
+    disabled: true
+  xian:
+    oj: gym
+    id: 104077A-L
+  hangzhou:
+    oj: gym
+    id: 104090A-M
+  shenyang:
+    oj: gym
+    id: 104160A-M
+  hongkong:
+    oj: gym
+    id: 104172A-L
+    disabled: true
+  jinan:
+    oj: gym
+    id: 104076A-M
+  ecfinal:
+    oj: qoj
+    contest: 1197
+    id: 6298-6310
