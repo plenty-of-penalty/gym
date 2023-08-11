@@ -1,0 +1,23 @@
+{
+  "name": "gym",
+  "version": "1.0.0",
+  "description": "队伍训练场",
+  "main": "src/main.js",
+  "private": true,
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plenty-of-penalty/gym.git"
+  },
+  "author": "memset0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plenty-of-penalty/gym/issues"
+  },
+  "homepage": "https://github.com/plenty-of-penalty/gym#readme",
+  "dependencies": {
+    "yaml": "^2.3.1"
+  }
+}
