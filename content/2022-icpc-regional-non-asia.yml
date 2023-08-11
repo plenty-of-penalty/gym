@@ -1,0 +1,10 @@
+title: 2022-2023 ICPC Regionals (non Asia)
+order: 2
+contests:
+  nwerc:
+    oj: qoj
+    contest: 1054
+    id: 5150-5161
+  neerc-northern:
+    oj: gym
+    id: 104012A-N

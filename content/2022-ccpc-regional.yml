@@ -1,0 +1,20 @@
+title: 2022-2023 CCPC Regionals
+order: 3
+contests:
+  guilin:
+    oj: gym
+    id: 104008A-M
+  mianyang:
+    oj: gym
+    id: 104065A-M
+  guangzhou:
+    oj: gym
+    id: 104053A-M
+  weihai:
+    oj: gym
+    id: 104023A-M
+    disabled: true
+  ccpc-final:
+    oj: qoj
+    contest: 1244
+    id: 6501-6513
